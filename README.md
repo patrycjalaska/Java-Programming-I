@@ -1,2 +1,2 @@
 # Java-Programming-I
-The problems solved above are part of a massive open online course (MOOC) offered by the University of Helsinki.
+The completed problems above are my solutions to an online course offered by the University of Helsinki.
